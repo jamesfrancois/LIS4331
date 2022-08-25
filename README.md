@@ -1,29 +1,29 @@
-# README #
+# LIS4331 Advanced Mobile Application Development
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## James Francois
 
-### What is this repository for? ###
+### Class Number Requirements:
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+*Course Work Links:*
 
-### How do I get set up? ###
+1. [A1 README.md](a1/README.md "My A1 README.md file")
+   
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+2. [A2 README.md](a2/README.md "My A2 README.md file")
+    
 
-### Contribution guidelines ###
+3. [A3 README.md](a3/README.md "My A3 README.md file")
+    
 
-* Writing tests
-* Code review
-* Other guidelines
 
-### Who do I talk to? ###
+4. [A4 README.md](a4/README.md "My A4 README.md file")
+    
 
-* Repo owner or admin
-* Other community or team contact
+5. [A5 README.md](a5/README.md "My A5 README.md file")
+     
+
+6. [P1 README.md](p1/README.md "My P1 README.md file")
+    
+
+7. [P2 README.md](p2/README.md "My P2 README.md file")
+    
