@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIS 4381
+# LIS 4331
 
 ## James Francois
 
@@ -12,15 +12,15 @@
 *Sub-Heading:*
 
 1. Git commands w/short descriptions
-2. Screenshots of PHP
-3. Screenshots of JDK running 
-4. Screenshots of My First App running 
+2. Screenshots of JDK running 
+3. Screenshots of My First App running
+4. Screenshots of Contacts App 
 
 #### README.md file should include the following items:
-* Git commands w/short descriptions
-* Screenshot of PHP running 
+* Git commands w/short descriptions 
 * Screenshot of JDK running 
 * Screenshot of My First App
+* Screenshots of Contacts App
 
 > This is a blockquote.
 > 
@@ -38,10 +38,6 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
-
-![AMPPS Installation Screenshot](img/PHP.png)
-
 *Screenshot of running java Hello*:
 
 ![JDK Installation Screenshot](img/jdk_install.png)
@@ -49,6 +45,14 @@
 *Screenshot of Android Studio - My First App*:
 
 ![Android Studio Installation Screenshot](img/android.png)
+
+*Screenshots of the list of contacts*:
+
+![List of Contacts](img/list.png)
+
+*Screenshots of contact info*:
+
+![List of Contacts](img/info.png)
 
 
 #### Tutorial Links:
