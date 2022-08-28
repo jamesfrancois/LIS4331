@@ -7,10 +7,10 @@
 *Course Work Links:*
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-   - Screenshot of JDK running
-   - Screenshot of my first app running
-   - Screenshot of list of contacts
-   - Screenshot of contact info
+    - Screenshot of JDK running
+    - Screenshot of my first app running
+    - Screenshot of list of contacts
+    - Screenshot of contact info
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
     - TBD
