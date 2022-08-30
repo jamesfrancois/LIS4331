@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIS 4331
+# LIS4331 Advanced Mobile Application Development
 
 ## James Francois
 
