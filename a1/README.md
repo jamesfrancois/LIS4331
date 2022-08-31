@@ -38,22 +38,13 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of running java Hello*:
+| Screenshot of running java Hello | Screenshot of Android Studio - My First App|
+| -------------- | --------------|
+| ![JDK Installation Screenshot](img/list.png) | ![Android Studio Installation Screenshot](img/contacts.mov) |
 
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
-*Screenshots of the list of contacts*:
-
-![List of Contacts](img/list.png)
-
-*Screenshots of contact info*:
-
-![List of Contacts](img/info.png)
-
+| Screenshots of the list of contacts | Screenshots of contact information |
+| -------------- | --------------|
+| ![List of Contacts](img/list.png) | ![Contact information](img/contacts.mov) |
 
 #### Tutorial Links:
 
