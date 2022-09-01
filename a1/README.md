@@ -42,10 +42,13 @@
 | -------------- | --------------|
 | ![JDK Installation Screenshot](img/jdk_install.png) | ![Android Studio Installation Screenshot](img/android.png) |
 
-| Screenshots of the list of contacts | Screenshots of contact information |
+| Screenshots of the list of contacts | Screenshots of 1st contact information |
 | -------------- | --------------|
-| ![List of Contacts](img/list.png) | ![Contact information](img/contacts.mp4) |
+| ![List of Contacts](img/list.png) | ![1st Contact information](img/1st.png) |
 
+| Screenshots of the 2nd contacts information | Screenshots of the 3rd contacts information  |
+| -------------- | --------------|
+| ![2nd Contact information](img/2nd.png) | ![ 3rd Contact information](img/3rd.png) |
 
 #### Tutorial Links:
 
