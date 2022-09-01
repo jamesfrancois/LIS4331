@@ -46,6 +46,8 @@
 | -------------- | --------------|
 | ![List of Contacts](img/list.png) | ![Contact information](img/contacts.mov) |
 
+![contacts](img/contacts.mov)
+
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
