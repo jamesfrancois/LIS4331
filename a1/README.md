@@ -44,9 +44,8 @@
 
 | Screenshots of the list of contacts | Screenshots of contact information |
 | -------------- | --------------|
-| ![List of Contacts](img/list.png) | ![Contact information](img/contacts.mov) |
+| ![List of Contacts](img/list.png) | ![Contact information](img/contacts.mp4) |
 
-![contacts](img/contacts.mov)
 
 #### Tutorial Links:
 
