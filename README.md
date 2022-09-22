@@ -2,7 +2,7 @@
 
 ## James Francois
 
-### Class Number Requirements:
+### LIS 4331 Requirements:
 
 *Course Work Links:*
 
