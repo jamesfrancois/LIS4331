@@ -8,37 +8,29 @@
 
 *Sub-Heading:*
 
-1. Screenshot of running application's first user interface
-2. Screenshot of running application's second user interface
-3. Skillsets
+1. Screenshot of running application unpopulated
+2. Screenshot of running application populated
+3. Skillsets 1-3
 
 #### README.md file should include the following items:
 
-* Screenshot of running application's first user interface
-* Screenshot of running application's second user interface
-* Skillsets
+* Screenshot of running application unpopulated
+* Screenshot of running application populated
+* Skillsets 1-3
 
 #### Assignment Screenshots:
 
-*Screenshot of running First User Interface
+| Screenshot of application populated | Screenshot of application unpopulated |
+| -------------- | --------------|
+| ![Screenshot of application populated](img/populated.png) | ![Screenshot of application unpopulated](img/unpopulated.png) |
 
-![First user interface Screenshot](img/First.png) 
+| Screenshots of Skillset 1 | Screenshots of Skillset 2 |
+| -------------- | --------------|
+| ![Screenshot of Skillset 1](img/skillset1.png) | ![Screenshot of Skillset 2](img/skillset2.png) |
 
-*Screenshot of running Second User Interface
-
-![Second user interface Screenshot](img/Second.png)
-
-*Screenshot of Skillset 1 
-
-![Skillset 1: Even or Odd](img/Skillset1.png) 
-
-*Screenshot of Skillset 2 
-
-![Skillset 2: Largest Number](img/Skillset2.png)
-
-*Screenshot of Skillset 3
-
-![Skillset 3: Arrays & Loops](img/Skillset3.png)
+| Screenshot of Skillset 3| 
+| -------------- |
+| ![Screenshot of Skillset 3](img/skillset3.png) |
 
 
 #### Tutorial Links:
