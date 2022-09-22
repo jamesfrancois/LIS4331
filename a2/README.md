@@ -26,11 +26,11 @@
 
 | Screenshots of Skillset 1 | Screenshots of Skillset 2 |
 | -------------- | --------------|
-| ![Screenshot of Skillset 1](img/skillset1.png) | ![Screenshot of Skillset 2](img/skillset2.png) |
+| ![Screenshot of Skillset 1](img/skillset01.png) | ![Screenshot of Skillset 2](img/skillset02.png) |
 
 | Screenshot of Skillset 3| 
 | -------------- |
-| ![Screenshot of Skillset 3](img/skillset3.png) |
+| ![Screenshot of Skillset 3](img/skillset03.png) |
 
 
 #### Tutorial Links:
