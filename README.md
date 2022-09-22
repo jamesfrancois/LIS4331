@@ -16,7 +16,7 @@
     - Course title, your name, assignment requirements
     - Screenshot of running application unpopulated 
     - Screenshot of running application populated
-    - Screenshot of Skillsets
+    - Screenshot of Skillsets 1-3
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - To
