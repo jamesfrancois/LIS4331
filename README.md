@@ -19,10 +19,11 @@
     - Screenshot of Skillsets 1-3
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - To
-    - Be
-    - Determined
-
+    - Course title, your name, assignment requirements, as per A1; 
+    - Screenshot of running applications splash screen;
+    - Screenshot of running applications unpopulated user interface; 
+    - Screenshot of running applications toast notification;
+    - Screenshot of Skillsets 4-6;
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
     - To
