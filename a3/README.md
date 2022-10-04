@@ -1,62 +1,36 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# LIS 4381 
+# LIS 4331
 
 ## James Francois
 
 ### Assignment 3 Requirements:
 
-*Sub-Heading:*
-
-1. Screenshot of ERD; 
-2. Screenshot of running applications opening user interface; 
-3. Screenshot of running applications processing user input; 
-4. Screenshots of 10 records for each table; 
-5. Links to the following files: a3.mwb, a3.sql; 
+1. Course title, your name, assignment requirements, as per A1; 
+2. Screenshot of running applications splash screen;
+3. Screenshot of running applications unpopulated user interface; 
+4. Screenshot of running applications toast notification;
+5. Screenshot of Skillsets 4-6;
 
 #### README.md file should include the following items:
 
-* Screenshot of ERD; 
-* Screenshot of running applications opening user interface; 
-* Screenshot of running applications processing user input; 
-* Screenshots of 10 records for each table; 
-* Links to the following files: a3.mwb, a3.sql; 
+* Course title, your name, assignment requirements, as per A1; 
+* Screenshot of running applications splash screen;
+* Screenshot of running applications unpopulated user interface; 
+* Screenshot of running applications toast notification;
+* Screenshot of Skillsets 4-6;
 
 #### Assignment Screenshots:
 
-*Screenshot of ERD
+| Screenshot of application populated | Screenshot of application unpopulated |
+| -------------- | --------------|
+| ![Screenshot of application populated](img/populated.png) | ![Screenshot of application unpopulated](img/unpopulated.png) |
 
-![First user interface Screenshot](img/Erd.png) 
+| Screenshots of Skillset 1 | Screenshots of Skillset 2 |
+| -------------- | --------------|
+| ![Screenshot of Skillset 1](img/skillset01.png) | ![Screenshot of Skillset 2](img/skillset02.png) |
 
-*Screenshot of running applications opening user interface 
 
-![Second user interface Screenshot](img/First.png)
-
-*Screenshot of running applications processing user input; 
-
-![Running applications processing user input](img/Second.png) 
-
-*Screenshots of 10 records for each table; 
-
-![Screenshots of 10 records for each table](img/Datatables.png)
-
-*Screenshot of Skillset 4
-
-![Skillset 4: Phone Types](img/Skillset4.png)
-
-*Screenshot of Skillset 5
-
-![Skillset 5: Random Number Generator](img/Skillset5.png)
-
-*Screenshot of Skillset 6
-
-![Skillset 6: Methods](img/Skillset6.png)
-
-*Link to a3.mwb
-[a3.mwb](docs/a3.mwb)
-
-*Link to a3.sql
-[a3.sql](docs/a3.sql)
 
 
 
