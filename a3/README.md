@@ -34,7 +34,7 @@
 
 | Screenshots of Skillset 4 | Screenshots of Skillset 5 |
 | -------------- | --------------|
-| ![Screenshot of Skillset 4](img/skillset04.png) | ![Screenshot of Skillset 5](img/skillset05.png) |
+| ![Screenshot of Skillset 4](img/skillset04.png) | ![Screenshot of Skillset 5](img/skillset05.mov) |
 
 | Screenshots of Skillset 6 |
 | -------------- |
