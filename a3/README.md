@@ -10,7 +10,8 @@
 2. Screenshot of running applications splash screen;
 3. Screenshot of running applications unpopulated user interface; 
 4. Screenshot of running applications toast notification;
-5. Screenshot of Skillsets 4-6;
+5. Screenshot of running applications converted currency user interface;
+6. Screenshot of Skillsets 4-6; 
 
 #### README.md file should include the following items:
 
@@ -18,18 +19,26 @@
 * Screenshot of running applications splash screen;
 * Screenshot of running applications unpopulated user interface; 
 * Screenshot of running applications toast notification;
+* Screenshot of running applications converted currency user interface;
 * Screenshot of Skillsets 4-6;
 
 #### Assignment Screenshots:
 
-| Screenshot of application populated | Screenshot of application unpopulated |
+| Screenshot of running applications splash screen | Screenshot of application unpopulated |
 | -------------- | --------------|
-| ![Screenshot of application populated](img/populated.png) | ![Screenshot of application unpopulated](img/unpopulated.png) |
+| ![Screenshot of running applications splash screen](img/splash.png) | ![Screenshot of application unpopulated](img/unpopulated.png) |
 
-| Screenshots of Skillset 1 | Screenshots of Skillset 2 |
+| Screenshot of running applications toast notification | Screenshot of running applications converted currency user interface |
 | -------------- | --------------|
-| ![Screenshot of Skillset 1](img/skillset01.png) | ![Screenshot of Skillset 2](img/skillset02.png) |
+| ![Screenshot of running applications toast notification](img/notification.png) | ![Screenshot of running applications converted currency user interface](img/currency.png) |
 
+| Screenshots of Skillset 4 | Screenshots of Skillset 5 |
+| -------------- | --------------|
+| ![Screenshot of Skillset 4](img/skillset04.png) | ![Screenshot of Skillset 5](img/skillset05.png) |
+
+| Screenshots of Skillset 6 |
+| -------------- |
+| ![Screenshot of Skillset 6](img/skillset06.png) |
 
 
 
