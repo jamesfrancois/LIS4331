@@ -36,9 +36,17 @@
 | -------------- | --------------|
 | ![Screenshot of Skillset 4](img/skillset04.png) | ![Screenshot of Skillset 5](img/skillset05.mov) |
 
-| Screenshots of Skillset 6 |
-| -------------- |
-| ![Screenshot of Skillset 6](img/skillset06.png) |
+| Screenshots of Skillset 6.1 | Screenshots of Skillset 6.2 |
+| -------------- | --------------|
+| ![Screenshot of Skillset 4](img/skillset61.png) | ![Screenshot of Skillset 5](img/skillset62.mov) |
+
+| Screenshots of Skillset 6.3 | Screenshots of Skillset 6.4 |
+| -------------- | --------------|
+| ![Screenshot of Skillset 4](img/skillset63.png) | ![Screenshot of Skillset 5](img/skillset64.mov) |
+
+| Screenshots of Skillset 6.5 | Screenshots of Skillset 6.6 | 
+| -------------- | -------------- | 
+| ![Screenshot of Skillset 4](img/skillset65.png) | ![Screenshot of Skillset 4](img/skillset66.png) |  
 
 
 
