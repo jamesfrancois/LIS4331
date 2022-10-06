@@ -32,21 +32,29 @@
 | -------------- | --------------|
 | ![Screenshot of running applications toast notification](img/notification.png) | ![Screenshot of running applications converted currency user interface](img/currency.png) |
 
-| Screenshots of Skillset 4 | Screenshots of Skillset 5 |
+| Screenshots of Skillset 4 | Screenshots of Skillset 5.1 |
 | -------------- | --------------|
-| ![Screenshot of Skillset 4](img/skillset04.png) | ![Screenshot of Skillset 5](img/skillset05.gif) |
+| ![Screenshot of Skillset 4](img/skillset04.png) | ![Screenshot of Skillset 5.1](img/skillset51.png) |
+
+| Screenshots of Skillset 5.2 | Screenshots of Skillset 5.3 |
+| -------------- | --------------|
+| ![Screenshot of Skillset 5.2](img/skillset52.png) | ![Screenshot of Skillset 5.3](img/skillset53.png) |
+
+| Screenshots of Skillset 5.4 |
+| -------------- | 
+| ![Screenshot of Skillset 5.4](img/skillset54.png) | 
 
 | Screenshots of Skillset 6.1 | Screenshots of Skillset 6.2 |
 | -------------- | --------------|
-| ![Screenshot of Skillset 4](img/skillset61.png) | ![Screenshot of Skillset 5](img/skillset62.png) |
+| ![Screenshot of Skillset 6.1](img/skillset61.png) | ![Screenshot of Skillset 6.2](img/skillset62.png) |
 
 | Screenshots of Skillset 6.3 | Screenshots of Skillset 6.4 |
 | -------------- | --------------|
-| ![Screenshot of Skillset 4](img/skillset63.png) | ![Screenshot of Skillset 5](img/skillset64.png) |
+| ![Screenshot of Skillset 6.3](img/skillset63.png) | ![Screenshot of Skillset 6.4](img/skillset64.png) |
 
 | Screenshots of Skillset 6.5 | Screenshots of Skillset 6.6 | 
 | -------------- | -------------- | 
-| ![Screenshot of Skillset 4](img/skillset65.png) | ![Screenshot of Skillset 4](img/skillset66.png) |  
+| ![Screenshot of Skillset 6.5](img/skillset65.png) | ![Screenshot of Skillset 6.6](img/skillset66.png) |  
 
 
 
