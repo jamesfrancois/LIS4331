@@ -1,85 +1,61 @@
 import java.util.Scanner;
-import java.util.Random;
- 
+
 public class Methods
 {
-   
     public static void getRequirements()
     {
         System.out.println("Developer: James Francois");
-        System.out.println("Print minimum and maximum integer values");
-        System.out.println("Program prompts user to enter desired number of psuedorandom-generated integers");
-        System.out.println("Program validates user input for integers greater than 0.");
-        System.out.println("Use following loop structures: for, enhnaced for, while, do...while.\n");
- 
-        System.out.println("Integer.MIN_VALUE = " + Integer.MIN_VALUE);
-        System.out.println("Integer.MAX_VALUE = " + Integer.MAX_VALUE);
- 
+        System.out.println("***Notes***"
+        +"\n1) Use integer for inches (must validate integer input)"
+        +"\n2) Use printf() function to print (format values per below output)."
+        +"\n3) Create Java \"constants\" for the following values:"
+        +"\nINCHES_TO_CENTIMETER,"
+        +"\nINCHES_TO_METER."
+        +"\nINCHES_TO_FOOT,"
+        +"\nINCHES_TO_YARD,"
+        +"\nFEET_TO_MILE\n.");
+        
         System.out.println();
    
  }
- 
- public static int[] createArray()
- {
-   
-    Scanner sc = new Scanner(System.in);
-    int arraySize = 0;
- 
-    System.out.print("Enter desired number of pseudo-random integers (min 1): ");
-    while (!sc.hasNextInt())
+    public static void measurementConversion()
     {
-    System.out.println("Not valid integer!\n");
-    sc.next();
-    System.out.print("Please try again. Enter valid integer (min 1): ");
-    }
-    arraySize = sc.nextInt();
- 
-    while(arraySize < 1)
+
+    System.out.println("Program converts to inches to centimeters, meter, feet, yards, and miles.");
+
+    int inches = 0;
+    double centimeters = 0.;
+    double meters = 0.0;
+    double feet = 0.0;
+    double yards = 0.0;
+    double miles = 0.0;
+
+    //constants
+    final double INCHES_TO_CENTIMETER =  2.54;
+    final double INCHES_TO_METER = .0254;
+    final double INCHES_TO_FOOT = 12;
+    final double INCHES_TO_YARD = 36;
+    final double FEET_TO_MILES = 5280;
+
+    Scanner input = new Scanner (System.in);
+
+    System.out.print("Please enter number of inches: ");
+    while (!input.hasNextInt())
     {
-    System.out.print("\nNumber must be greater than 0. Please enter integer greater than O: ");
-    while (sc.hasNextInt())
-    {
-    System.out.print("\nNumber must be integer: ");
-    sc.next();
-    System.out.print("Please try again. Enter integer value greater than 0: ");
+        System.out.println("Not a valid integer!\n");
+        input.next();
+        System.out.print("Please enter number of inches: ");
     }
-    arraySize = sc.nextInt();
+
+    inches = input.nextInt();
+
+    centimeters = inches * INCHES_TO_CENTIMETER;
+    meters = inches / INCHES_TO_METER;
+    feet = inches / INCHES_TO_FOOT;
+    yards = inches / INCHES_TO_YARD;
+    miles = feet / FEET_TO_MILES;
+
+    System.out.printf("%,d inches(es) equals\n\n%,.6f centimeter(s)\n%,.6f meter(s)\n%,.6f feet\n%,.6f yard(s)\n%,.8f mile(s)\n", inches, centimeters, meters, feet, yards, miles);
+
     }
-    int yourArray[] = new int[arraySize];
-    return yourArray;
-   
- }
- 
-public static void generatePseudoRandomNumbers(int [] myArray)
-{
-    Random r = new Random();
-    int i = 0;
- 
-    System.out.println("for loop: ");
-    for(i=0; i< myArray.length; i++)
-    {
-    System.out.println(r.nextInt());
-    }
-    System.out.println("\nEnhanced for loop:");
-    for(int n: myArray)
-    {
-    System.out.println(r.nextInt());
-    }
-    System.out.println("\nwhile loop:");
-    i=0;
-    while (i < myArray.length)
-    {
-    System.out.println(r.nextInt());
-    i++;
-    }
-    i=0;
-    System.out.println("\ndo... while loop:");
-    do
-    {
-    System.out.println(r.nextInt());
-    i++;
-    }
-    while (i < myArray.length);
 }
-}
- 
