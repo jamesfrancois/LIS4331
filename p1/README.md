@@ -4,8 +4,6 @@
 
 ### Project 1 Requirements:
 
-*Sub-Heading:*
-
 1. Course title, your name, assignment requirements, as per A1
 2. Screenshot of running applications splash screen 
 3. Screenshot of running applications follow-up screen (with images and buttons)
