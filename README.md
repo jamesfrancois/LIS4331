@@ -36,9 +36,10 @@
     - Determined 
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
-    - To
-    - Be
-    - Determined
+    - Screenshot of running applications splash screen
+    - Screenshot of running applications follow-up screen (with images and buttons)
+    - Screenshots of running applications play and pause user interfaces (with images and buttons)
+    - Skillsets 7-9
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - To
