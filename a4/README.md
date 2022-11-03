@@ -6,49 +6,40 @@
 
 *Sub-Heading:*
 
-1. Course title, your name, assignment requirements, as per A1;
-2. Screenshot of Failed Validation
-3. Screenshot of Passed Validation 
-4. Screenshots of Skillsets
-5. Link to local lis4381 web app:
+1. Course title, your name, assignment requirements, as per A1
+2. Screenshot of running applications splash screen 
+3. Screenshot of running applications invalid screen (with appropriate image)
+4. Screenshots of running applications valid screen (with appropriate image)
+5. Skillsets 10-12
 
 #### README.md file should include the following items:
 
-* Course title, your name, assignment requirements, as per A1;
-* Screenshot of Failed Validation 
-* Screenshot of Passed Validation 
-* Screenshots of Skillsets
-* Link to local lis4381 web app: 
+* Course title, your name, assignment requirements, as per A1
+* Screenshot of running applications splash screen 
+* Screenshot of running applications invalid screen (with appropriate image)
+* Screenshots of running applications valid screen (with appropriate image)
+* Skillsets 10-12
 
 #### Assignment Screenshots:
 
-*Link to local lIS4381 Web App
+| Screenshot of running applications splash screen | Screenshot of application unpopulated |
+| -------------- | --------------|
+| ![Screenshot of running applications splash screen](img/splash.png) | ![Screenshot of application unpopulated](img/main.png) |
 
-[Link to local lis4381 web app](http://localhost:8080/repos/lis4381/index.php)
+| Screenshot of running applications invalid screen| Screenshots of running applications valid screen |
+| -------------- | --------------|
+| ![Screenshot of running applications invalid screen](img/invalid.png) | ![Screenshots of running applications valid screen](img/valid.png) |
 
-*LIS 4381 Portal (Main Page)
+#### Skillset Screenshots:
 
-![LIS 4381 Portal (Main Page)](img/homepage.png) 
+| Screenshot of Skillset 10 | Screenshot of Skillset 11 |
+| -------------- | --------------|
+| ![Screenshot of Skillset 10 ](img/skillset10.png) | ![Screenshot of Skillset 11 ](img/skillset11.png) |
 
-*Failed Validation 
+| Screenshot of Skillset 12 |
+| -------------- |
+| ![Screenshot of Skillset 12](img/skillset12.png) |
 
-![Failed Validation ](img/invalid.png)
-
-*Passed Validation 
-
-![Passed Validation ](img/valid.png) 
-
-*Screenshot of Skillset 10
-
-![Skillset 10: Array List](img/Skillset10.png)
-
-*Screenshot of Skillset 11
-
-![Skillset 11: Alpha Numeric & Special](img/Skillset11.png)
-
-*Screenshot of Skillset 12
-
-![Skillset 12: Temperature Conversion](img/Skillset12.png)
 
 #### Tutorial Links:
 
