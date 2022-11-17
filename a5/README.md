@@ -1,4 +1,4 @@
-# LIS 4381 
+# LIS 4331 
 
 ## James Francois
 
@@ -7,61 +7,40 @@
 *Sub-Heading:*
 
 1. Course title, your name, assignment requirements, as per A1; 
-2. Screenshots of Petstore operations
-3. Screenshots of Skillsets 
+2. Screenshot of running applications main screen (list of articles (activity_items.xml)); 
+3. Screenshot of running applications individual article (activity_item.xml); 
+4. Screenshots of running applications default browser (article link); 
+5. Skillsets 13-15
+
 
 #### README.md file should include the following items:
 
 * Course title, your name, assignment requirements, as per A1; 
-* Screenshots of Petstore operations
-* Screenshots of Skillsets 
+* Screenshot of running applications main screen (list of articles (activity_items.xml)); 
+* Screenshot of running applications individual article (activity_item.xml); 
+* Screenshots of running applications default browser (article link); 
+* Skillset 13-15
 
 #### Assignment Screenshots:
 
-*Screenshot of Petstore Index 
+| Screenshot of running applications splash screen | Screenshot of application Main Page |
+| -------------- | --------------|
+| ![Screenshot of splash screen](img/splash.png) | ![Screenshot of Main Page](img/main.png) |
 
-![Petstore Index](img/index.png)
+| Screenshot of Indivdual Page| Screenshots of Article Page |
+| -------------- | --------------|
+| ![Screenshot of Indivdual Page](img/individual.png) | ![Screenshots of Article Page](img/article.png) |
 
-*Screenshot of Failed Validation Add Petstore; 
+#### Skillset Screenshots:
 
-![Invalid Petstore](img/failed_validation.png) 
+| Screenshot of Skillset 13 |
+| -------------- |
+| ![Screenshot of Skillset 13](img/skillsets13.png) |
 
-*Screenshot of invalid Add Petstore Error; 
+| Screenshot of Skillset 14 |
+| -------------- |
+| ![Screenshot of Skillset 14](img/skillsets14.png) |
 
-![Invalid add petstore](img/error.png) 
-
-*Screenshot of Valid Add Petstore ; 
-
-![Running applications processing user input](img/valid.png) 
-
-*Screenshot of Passed Validation; 
-
-![Running applications processing user input](img/passed_validation.png) 
-
-*Screenshot of Skillset 13
-
-![Skillset 13: Sphere Volume Calculator](img/Skillset13.png)
-
-*Screenshot of Skillset 14 Index Addition
-
-![Skillset 14: Simple Calculator](img/addition_index.png)
-
-*Screenshot of Skillset 14 Process Addition
-
-![Skillset 14:Simple Calculator](img/addition_process.png)
-
-*Screenshot of Skillset 14 Process Divison
-
-![Skillset 14:Simple Calculator](img/divison_index.png)
-
-*Screenshot of Skillset 14 Process Divison
-
-![Skillset 14:Simple Calculator](img/divison_process.png)
-
-*Screenshot of Skillset 15 Index 
-
-![Skillset 15:Write Read File](img/Skillset15_index.png)
-
-*Screenshot of Skillset 15 Process
-
-![Skillset 15:Write Read File](img/Skillset15_process.png)
+| Screenshot of Skillset 15 |
+| -------------- |
+| ![Screenshot of Skillset 15](img/skillsets15.png) |
