@@ -33,9 +33,11 @@
     - Skillsets 10-12
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - To
-    - Be
-    - Determined 
+    - Course title, your name, assignment requirements, as per A1; 
+    - Screenshot of running applications main screen (list of articles (activity_items.xml)); 
+    - Screenshot of running applications individual article (activity_item.xml); 
+    - Screenshots of running applications default browser (article link); 
+    - Skillset 13-15
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Screenshot of running applications splash screen
