@@ -46,6 +46,8 @@
     - Skillsets 7-9
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - To
-    - Be
-    - Determined
+    - Course title, your name, assignment requirements, as per A1; 
+    - Screenshots of Adding a User
+    - Screenshot of Updating a User
+    - Screenshot of Viewing a User
+    - Screenshot of Deleting a user

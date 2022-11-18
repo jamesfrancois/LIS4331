@@ -1,4 +1,4 @@
-# LIS 4381 
+# LIS 4331 
 
 ## James Francois
 
@@ -7,45 +7,30 @@
 *Sub-Heading:*
 
 1. Course title, your name, assignment requirements, as per A1; 
-2. Screenshot of Petstore Index 
-3. Screenshot of Edit Petstore 
-4. Screenshot of Failed Validation 
-5. Screenshot of Passed Validation 
+2. Screenshot of Adding a User
+3. Screenshot of Updating a User
+4. Screenshot of Viewing a User
+5. Screenshot of Deleting a user
+
 
 #### README.md file should include the following items:
 
 * Course title, your name, assignment requirements, as per A1; 
-* Screenshot of Petstore Index 
-* Screenshot of Edit Petstore 
-* Screenshot of Failed Validation 
-* Screenshot of Passed Validation 
+* Screenshot of Adding a User
+* Screenshot of Updating a User
+* Screenshot of Viewing a User
+* Screenshot of Deleting a user
 
 #### Assignment Screenshots:
 
-*Screenshot of Petstore Index 
+| Screenshot of running applications splash screen | Screenshot of Adding a User |
+| -------------- | --------------|
+| ![Screenshot of splash screen](img/splash.png) | ![Screenshot of Main Page](img/add.png) |
 
-![Petstore Index](img/index.png)
+| Screenshot of Updating a User| Screenshots of Viewing a User|
+| -------------- | --------------|
+| ![Screenshot of Indivdual Page](img/update.png) | ![Screenshots of Article Page](img/view.png) |
 
-*Screenshot of Edit Petstore 
-
-![Edit Petstore](img/edit.png) 
-
-*Screenshot of Failed Validation 
-
-![Failed Validation](img/failed.png) 
-
-*Screenshot of Passed Validation 
-
-![Passed Validation](img/passed.png) 
-
-*Screenshot of Delete Prompt 
-
-![Delete Prompt](img/prompt.png) 
-
-*Screenshot of Sucessful Deleted Record
-
-![Sucessful Deleted Record](img/delete.png) 
-
-*Screenshot of RSS Feed
-
-![RSS Feed](img/rss.png) 
+| Screenshot of Deleting a user|
+| -------------- |
+| ![Screenshot of Skillset 13](img/delete.png) |
