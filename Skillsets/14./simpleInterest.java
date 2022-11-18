@@ -1,5 +1,3 @@
-
-
 import java.text.NumberFormat;
 import java.util.Scanner;
 import java.text.NumberFormat;
@@ -9,6 +7,7 @@ public class simpleInterest {
     
     public static void main(String argsp[])
     {
+        System.out.println("Developer: James Francois");
         System.out.println("Program swaps to integers.");
         System.out.println();
 

@@ -12,6 +12,7 @@ public class FileWriteRead
 
         BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
 
+
         bufferedWriter.write("Fourscore and seven years ago our fathers brought forth, ");
         bufferedWriter.newLine();
         bufferedWriter.write("on this continent, a new nation, conceived in liberty, ");

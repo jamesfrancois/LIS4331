@@ -2,6 +2,7 @@ public class ArrayDemo
 {
     public static void main (String args [])
     {
+        System.out.println("Developer James Francois");
         System.out.println("Program creates an array with the following numbers, \n"
                             + "and performs the operations below using user-defined methods.");
         System.out.println();
